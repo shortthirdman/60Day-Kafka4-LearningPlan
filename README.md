@@ -17,3 +17,8 @@
 - [Week 7: Day 47 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-47-of-60-0468fce494ea)
 - [Week 7: Day 48 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-48-of-60-a2eb5f01354d)
 - [Week 7: Day 49 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-49-of-60-0be70774a4c7)
+- [Week 8: Day 56 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-56-of-60-94bd57632464)
+
+
+## Documentation
+
