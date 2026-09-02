@@ -1,0 +1,24 @@
+# user.yaml — managed user with SCRAM auth + ACLs
+apiVersion: kafka.strimzi.io/v1beta2
+kind: KafkaUser
+metadata:
+  name: labs-api
+  namespace: kafka
+  labels:
+    strimzi.io/cluster: labs-kafka
+spec:
+  authentication:
+    type: scram-sha-512
+  authorization:
+    type: simple
+    acls:
+      - resource:
+          type: topic
+          name: labs.events
+          patternType: literal
+        operations: [Write, Describe]
+      - resource:
+          type: group
+          name: labs-api-group
+          patternType: literal
+        operations: [Read]
