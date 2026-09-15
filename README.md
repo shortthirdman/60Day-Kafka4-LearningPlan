@@ -1,12 +1,16 @@
 # 60Day-Kafka4-LearningPlan
-60-Day Kafka 4 Learning Plan
+
+> 60-Day Kafka 4 Learning Plan
 
 
 ## References
 
 - [Week 1: Day 1 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-1-of-60-95bc335dec92)
 - [Week 1: Day 2 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-2-of-60-c074bcdeac1b)
+- [Week 1: Day 3 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-3-of-60-029e0e3eff67)
+- [Week 1: Day 4 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-4-of-60-81c3fa8e8eac)
 - [Week 1: Day 5 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-5-of-60-01e6cb266132)
+- [Week 1: Day 6 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-6-of-60-363d7c3e4841)
 - [Week 2: Day 9 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-2-day-9-of-60-64ab77ba8cb6)
 - [Week 3: Day 21 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-3-day-21-of-60-07619fe7ddb6)
 - [Week 4: Day 22 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-4-day-22-of-60-50ae226fde4c)
@@ -20,6 +24,7 @@
 - [Week 8: Day 50 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-50-of-60-6349bde6c0c7)
 - [Week 8: Day 52 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-52-of-60-f5ed514b2131)
 - [Week 8: Day 56 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-56-of-60-94bd57632464)
+- [Week 9: Day 60 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-60-of-60-1f7dbb2d7066)
 
 ## Documentation
 
