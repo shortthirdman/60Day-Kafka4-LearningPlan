@@ -12,8 +12,12 @@
 - [Week 1: Day 5 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-5-of-60-01e6cb266132)
 - [Week 1: Day 6 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-1-day-6-of-60-363d7c3e4841)
 - [Week 2: Day 9 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-2-day-9-of-60-64ab77ba8cb6)
+- [Week 2: Day 12 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-2-day-12-of-60-14006bc696ab)
+- [Week 2: Day 13 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-2-day-13-of-60-41b39bb71d7c)
 - [Week 3: Day 21 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-3-day-21-of-60-07619fe7ddb6)
 - [Week 4: Day 22 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-4-day-22-of-60-50ae226fde4c)
+- [Week 6: Day 39 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-6-day-39-of-60-0d76659888d1)
+- [Week 6: Day 40 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-6-day-40-of-60-34dbe5416110)
 - [Week 6: Day 42 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-6-day-42-of-60-5e281c255bd3)
 - [Week 7: Day 43 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-43-of-60-6cb2838b527a)
 - [Week 7: Day 45 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-45-of-60-42295f102dbb)
@@ -23,7 +27,10 @@
 - [Week 7: Day 49 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-7-day-49-of-60-0be70774a4c7)
 - [Week 8: Day 50 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-50-of-60-6349bde6c0c7)
 - [Week 8: Day 52 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-52-of-60-f5ed514b2131)
+- [Week 8: Day 54 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-54-of-60-fd69ce16e70a)
+- [Week 8: Day 55 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-55-of-60-9d9483173ec7)
 - [Week 8: Day 56 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-8-day-56-of-60-94bd57632464)
+- [Week 9: Day 58 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-58-of-60-fc4ca64995ec)
 - [Week 9: Day 60 of 60](https://boottechnologies-ci.medium.com/60-day-kafka-4-learning-plan-week-9-day-60-of-60-1f7dbb2d7066)
 
 ## Documentation
